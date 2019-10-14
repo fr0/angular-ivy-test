@@ -6,7 +6,7 @@ export class BaseComponent<T> {
 }
 
 @Component({
-  selector: 'adt-derived',
+  selector: 'app-derived',
   template: `
     {{value}}
   `
